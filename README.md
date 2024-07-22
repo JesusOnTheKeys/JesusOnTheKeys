@@ -16,7 +16,7 @@ Here are some of my favorite projects:
 ## Contact Me
 Feel free to reach out to me via:
 - **Discord**: [jesusonthekeys]
-- **Website**: [JesusOnTheKeys.com](https://jesusonthekeys.com)
+- **Website**: [JesusOnTheKeys.com](http://jesusonthekeys.com)
 
 
 
