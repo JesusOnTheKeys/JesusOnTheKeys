@@ -18,7 +18,7 @@ Feel free to reach out to me via:
 - **Discord**: [jesusonthekeys]
 - **Website**: [JesusOnTheKeys.com](http://jesusonthekeys.com)
 
-
+I cannot be bothered to alter this so just message me on discord if you really care
 
 <!---
 JesusOnTheKeys/JesusOnTheKeys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
